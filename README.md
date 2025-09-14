@@ -39,12 +39,6 @@ Realtime-Twitter-Dashboard/
 
 ---
 
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot]
-
----
-
 ## ✨ Key Insights
 
 - 📅 **Weekdays** have significantly higher activity compared to weekends.  
