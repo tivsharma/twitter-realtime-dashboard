@@ -24,7 +24,7 @@ The dashboard includes the following interactive visuals:
 ## 📂 Repository Structure
 
 Realtime-Twitter-Dashboard/
-│── Dashboard.pbix # Power BI dashboard file
+│── Twitter sales analysis.pbix # Power BI dashboard file
 │── SocialMedia.xlsx # Example dataset (if shareable)
 │── README.md # Project documentation
 
