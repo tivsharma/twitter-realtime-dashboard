@@ -1,0 +1,19 @@
+Dashboard Highlights
+
+The dashboard consists of multiple interactive visuals:
+
+Tweet by Week (Line Chart) → Shows how tweet activity fluctuates across different weekdays.
+
+Media Engagement vs. Media Views (Clustered Chart) → Compares how many people view media vs. actually engage with it.
+
+Tweet Count by Weekday (Bar Chart) → Tracks posting frequency to identify the most active days.
+
+Retweets & Likes (Gauge Cards) → Displays cumulative totals and goals for retweets and likes.
+
+URL Clicks by Tweet (Horizontal Bar Chart) → Highlights which tweets drive the most clicks.
+
+Hashtag Clicks, URL Clicks & User Profile Clicks (Pie Chart) → Breaks down how users interact with content.
+
+Media Views, Impressions, Engagement Rate, Tweet Count (KPIs) → Quick snapshot of overall Twitter performance.
+
+Impressions by Week (Line Chart) → Shows reach trends across different days of the week.
